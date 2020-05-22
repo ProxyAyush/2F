@@ -10,7 +10,7 @@
     <img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/11/01/Pictures/_da33d436-fc86-11e9-9bd9-13880a980866.jpg" alt="realm">
     <div class="service-hover-text">
       <h3>Ayush Yadav</h3>
-      <h4>MBBS Medical Student</h4>
+      <h4>Med Student</h4>
       <p>Developed the Chronic Obstructive Respiratory Disease Self Diagnosis tool Because COPD is the 2nd Most Underdiagnosed Disease in India </p>
     </div>
     <div class="service-white service-text">
