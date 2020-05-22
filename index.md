@@ -15,7 +15,9 @@
     </div>
     <div class="service-white service-text">
       <p>Ayush Yadav</p>
+    
       <a href="mailto: Ayushiamazon1@gmail.com">mail@Ayush</a>
+       <a href="https://www.instagram.com/just_ayush_/">Instagram</a>
     </div>
   </div>
 </div>
