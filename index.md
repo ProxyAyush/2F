@@ -4,18 +4,18 @@
 <head>
 <body>
 <div class="container">
-  <h1>Profile CSS Hover Effect</h1>
-  <h2>HTML + CSS ONLY</h2>
+  <h1>Developer Profile</h1>
+  <h2>Medical Student</h2>
   <div class="service-details">
     <img src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/11/01/Pictures/_da33d436-fc86-11e9-9bd9-13880a980866.jpg" alt="realm">
     <div class="service-hover-text">
-      <h3>Jane Doe</h3>
-      <h4>Developer</h4>
-      <p>Nulla rhoncus orci sed odio euismod vestibulum. Praesent porta aliquet nulla, ut mattis velit rhoncus eu duspendisse nibh orci laoreet. </p>
+      <h3>Ayush Yadav</h3>
+      <h4>MBBS Medical Student</h4>
+      <p>Developed the Chronic Obstructive Respiratory Disease Self Diagnosis tool Because COPD is the 2nd Most Underdiagnosed Disease in India </p>
     </div>
     <div class="service-white service-text">
-      <p>Jane Doe</p>
-      <a href="#">@JaneDoe</a>
+      <p>Ayush Yadav</p>
+      <a href="mailto: Ayushiamazon1@gmail.com">mail@Ayush</a>
     </div>
   </div>
 </div>
